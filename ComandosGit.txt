@@ -1,0 +1,15 @@
+git log						Para ver el historial de los commits
+
+git pull					Extraer las actualizaciones
+
+git push					Enviar los commits al repositorio en github
+
+git add						para agregar al state area
+
+git commit -m "descripcion del cambio"		para agregar un commit
+
+git clone urldelrepositorioengithub		para clonar un repositorio
+
+git status					para ver los archivos que han sido modificados
+						para poder hacerles commit
+
