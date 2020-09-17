@@ -16,3 +16,6 @@ git status					para ver los archivos que han sido modificados
 q						Se utiliza para salir de git log
 
 git branch					Para ver las ramas que tenemos
+
+git checkout master				Para regresar a la rama maestra luego de haber
+						ingresado a un commit anterior
