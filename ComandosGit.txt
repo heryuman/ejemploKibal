@@ -14,3 +14,5 @@ git status					para ver los archivos que han sido modificados
 						para poder hacerles commit
 
 q						Se utiliza para salir de git log
+
+git branch					Para ver las ramas que tenemos
